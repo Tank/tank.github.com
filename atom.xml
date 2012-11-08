@@ -4,7 +4,7 @@
   <title><![CDATA[啊…Tank's Blog]]></title>
   <link href="http://Tank.github.com/atom.xml" rel="self"/>
   <link href="http://Tank.github.com/"/>
-  <updated>2012-11-09T01:01:52+08:00</updated>
+  <updated>2012-11-09T01:04:09+08:00</updated>
   <id>http://Tank.github.com/</id>
   <author>
     <name><![CDATA[Tank]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[first-post]]></title>
+    <title type="html"><![CDATA[Hello Octopress]]></title>
     <link href="http://Tank.github.com/blog/2012/11/09/first-post/"/>
     <updated>2012-11-09T01:00:00+08:00</updated>
     <id>http://Tank.github.com/blog/2012/11/09/first-post</id>
