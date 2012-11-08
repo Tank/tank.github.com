@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[啊…Tank's Blog]]></title>
+  <link href="http://tank.github.com/atom.xml" rel="self"/>
+  <link href="http://tank.github.com/"/>
+  <updated>2012-11-09T00:52:58+08:00</updated>
+  <id>http://tank.github.com/</id>
+  <author>
+    <name><![CDATA[Tank]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello Octopress]]></title>
+    <link href="http://tank.github.com/blog/2012/11/08/hello-octopress/"/>
+    <updated>2012-11-08T00:00:00+08:00</updated>
+    <id>http://tank.github.com/blog/2012/11/08/hello-octopress</id>
+    <content type="html"><![CDATA[<p><link rel="stylesheet" href="http://yandex.st/highlightjs/6.1/styles/default.min.css"></p>
+
+<script src="http://yandex.st/highlightjs/6.1/highlight.min.js"></script>
+
+
+<script>
+hljs.tabReplace = '    ';
+hljs.initHighlightingOnLoad();
+</script>
+
+
+<h2>写在前面</h2>
+
+<hr />
+
+<p>不小心看到了<a href="http://octopress.org/">Octopress</a>着实被惊艳了一下,原来Blog还可以这样写,于是就建了个Blog了…</p>
+
+<h2>惯例开场白</h2>
+
+<hr />
+
+<p>&nbsp;&nbsp;&nbsp;惯例聊点什么吧。</p>
+
+
+<p>
+&nbsp;&nbsp;&nbsp;今年国庆的时候吧，全国上下放了个长假，本来说好开开心心踩车去厦门玩的，但后来因为某些原因没有出门，于是在广州霉了8日，霉完之后发现工作不顺心啊，那个没有激情自然也没了动力，于是假期最后一天做了一个艰难的决定&#8212;-辞职。<br/>
+&nbsp;&nbsp;&nbsp;从2008年3月开始工作到现在，不知不觉就过了快5年，在这快5年的时间吧，有的人功成名就，有的人碌碌无为。我一直都觉得自己处于碌碌无为的范畴，不然为什么到现在都还没有一点点的成就感呢，至于什么是成就感，每个人的心目中都有自己的答案。我的答案就是在自己能力范围内，造福部分人们再带动大部分人们。有人说，就不是扯蛋吗。的确，这听起来就是TMD扯蛋，不过我还是天真地认为我只要稍为坚持一下，还是可以实现这个所谓的成就感。<br/>
+&nbsp;&nbsp;&nbsp;没错，这也正是我要开通这个博客的主要原因，因为我沉默了这么久，我想是时候为这个行业做点贡献了。我会时不时地更新一些文章，跟大家分享一些代码片段，分享一些项目经验再分享一些生活琐碎（你们喜欢看的前提下) :）
+</p>
+
+
+<h2>然后会怎样</h2>
+
+<hr />
+
+<p>分享第一份代码片段: HelloWorld.c</p>
+
+<pre><code>//
+//  Hello World
+//
+//  Created by  on 11/08/12.
+//  Copyright 2012年 Tank. All rights reserved.
+//
+#include "stdio.h"
+int main(int argc, char *argv[])
+{
+    printf("Hello World.");
+}
+</code></pre>
+
+<p>Over.
+等等还有&#8230;</p>
+
+<h2>Octopress建站小Tips</h2>
+
+<hr />
+
+<p><a href="https://github.com">Github 这个不用介绍了</a><br/>
+<a href="http://octopress.org/">Octopress 官网</a><br/>
+<a href="http://blog.eddie.com.tw/2011/10/11/how-to-install-octopress-on-heroku/">教你从头开始搭建Octopress</a><br/>
+<a href="http://mouapp.com/">Markdown神器Mou (国人开发) , 或者称写博神器吧!</a><br/>
+至于其他涉及到的东西如Ruby,Html,Javascript之类就不一一介绍,自己网上找资料去.<br/>
+好吧,这次真写完了.</p>
+]]></content>
+  </entry>
+  
+</feed>
